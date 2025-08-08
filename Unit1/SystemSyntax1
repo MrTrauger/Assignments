@@ -22,7 +22,7 @@ Example output:
 
 0.531496062992126
   
-Task 3: Write adaptable code that will print out the circumference and area of a circle that has a radius of 4.0. (Hint: the value of pi is 3.1519 and it never changes)
+Task 3: Write adaptable code that will print out the circumference and area of a circle that has a radius of 4.0. (Hint: the value of pi is 3.14 and it never changes)
 
 Example output: 
 
