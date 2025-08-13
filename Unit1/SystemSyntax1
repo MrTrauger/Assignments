@@ -14,7 +14,7 @@ O O     O  O  O          OO
 
 Task 2: Write code to compute the following math problem:
 
-6.0 x 3.5 - 1.5 x 5
+6.0 x (3.5 - 1.5 x 5)
 -------------------
     55.6 - 30.2
 
